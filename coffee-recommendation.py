@@ -24,4 +24,3 @@ elif taste == "bitter" and milk == "more milk":
     print(bitter_more_milk)
 else:
     print("I'm sorry, please let me know if you would like your drink sweet or bitter and if you would like no milk, little milk, or more milk.")
-
